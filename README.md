@@ -8,12 +8,9 @@ int main(void) {
 	  git init
 	  git add Cprogram
 	  git commit - m "first commit"
+	  
 	  git remote add origin https ://github.com/mizukiishii/Cprogram.git
   git push - u origin master
-
-	  git remote add origin https ://github.com/mizukiishii/Cprogram.git
-  git push - u origin master
-
 
 printf("西暦:");
 scanf("%d",&a);
